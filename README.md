@@ -76,7 +76,7 @@ Silakan cek repositori saya—kalau ada ide kolaborasi atau masukan, saya sangat
 ## 📫 Kontak
 - Email: **kiapndy@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/kurniawanalhamdanipandayuputra
-- Portfolio: https://jasaalgojo.rf.gd/
+- Portfolio: https://portofolio-kurniawan-app.vercel.app/
 
 ---
 
