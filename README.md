@@ -85,8 +85,11 @@ Terima kasih sudah mampir! Di sini saya menyimpan proyek pengembangan aplikasi (
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=pirangskuy&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00f0ff&text_color=d1f7ff&icon_color=ff2a6d&ring_color=05ffa1&custom_title=%3E%20SYSTEM%20DIAGNOSTICS&text_bold=false&v=2" alt="System diagnostics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirangskuy&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff2a6d&text_color=d1f7ff&custom_title=%3E%20LANGUAGE%20MATRIX&langs_count=8&v=2" alt="Language matrix" />
+<img height="180" src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profil GitHub" />
+<img height="180" src="./profile-summary-card-output/radical/3-stats.svg" alt="Statistik GitHub" />
+
+<img height="180" src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repositori per bahasa" />
+<img height="180" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Bahasa dengan commit terbanyak" />
 
 <br/>
 
@@ -94,11 +97,7 @@ Terima kasih sudah mampir! Di sini saya menyimpan proyek pengembangan aplikasi (
 
 </div>
 
-### `> trophy_cabinet --unlocked`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pirangskuy&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
-</div>
+<!-- Kartu di atas dibuat oleh workflow .github/workflows/profile-cards.yml (jalankan sekali). -->
 
 ### `> contribution_snake --run`
 
