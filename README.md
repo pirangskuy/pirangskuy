@@ -99,7 +99,7 @@ Terima kasih sudah mampir! Di sini saya menyimpan proyek pengembangan aplikasi (
 
 <!-- Kartu di atas dibuat oleh workflow .github/workflows/profile-cards.yml (jalankan sekali). -->
 
-### `> contribution_snake --run`
+ // ### `> contribution_snake --run`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/pirangskuy/pirangskuy/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
@@ -107,7 +107,7 @@ Terima kasih sudah mampir! Di sini saya menyimpan proyek pengembangan aplikasi (
 
 <!-- Ular kontribusi aktif setelah workflow .github/workflows/snake.yml dijalankan sekali (lihat panduan). -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2a6d,100:00f0ff&height=2&section=header" width="100%" alt="" />
+// <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2a6d,100:00f0ff&height=2&section=header" width="100%" alt="" />
 
 ## `> ping --contact`
 
